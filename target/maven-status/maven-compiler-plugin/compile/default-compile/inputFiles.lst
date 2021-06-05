@@ -1,0 +1,10 @@
+D:\eclipse\eclipse-workspace\EaseCommonTask\src\main\java\jk\ease\common\task\config\StorageProperties.java
+D:\eclipse\eclipse-workspace\EaseCommonTask\src\main\java\jk\ease\common\task\EaseCommonTaskApplication.java
+D:\eclipse\eclipse-workspace\EaseCommonTask\src\main\java\jk\ease\common\task\model\exception\StorageFileNotFoundException.java
+D:\eclipse\eclipse-workspace\EaseCommonTask\src\main\java\jk\ease\common\task\model\exception\StorageException.java
+D:\eclipse\eclipse-workspace\EaseCommonTask\src\main\java\jk\ease\common\task\ui\controller\CommonUiController.java
+D:\eclipse\eclipse-workspace\EaseCommonTask\src\main\java\jk\ease\common\task\model\service\StorageService.java
+D:\eclipse\eclipse-workspace\EaseCommonTask\src\main\java\jk\ease\common\task\model\constant\SystemConstant.java
+D:\eclipse\eclipse-workspace\EaseCommonTask\src\main\java\jk\ease\common\task\model\util\CommonUtil.java
+D:\eclipse\eclipse-workspace\EaseCommonTask\src\main\java\jk\ease\common\task\model\service\FileSystemStorageService.java
+D:\eclipse\eclipse-workspace\EaseCommonTask\src\main\java\jk\ease\common\task\ui\controller\FileUploadController.java
